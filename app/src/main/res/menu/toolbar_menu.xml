@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res-auto">
+  <item
+    android:id="@+id/first_button"
+    android:title=""
+    android:iconTint="@color/white"
+    app:showAsAction="ifRoom"
+    app:itemIconSize="16dp"/>
+  <item
+    android:id="@+id/second_button"
+    android:title=""
+    android:iconTint="@color/white"
+    app:showAsAction="ifRoom"
+    app:itemIconSize="16dp"/>
+
+<!--  <item-->
+<!--    android:id="@+id/third_button"-->
+<!--    android:title=""-->
+<!--    android:icon="@drawable/ic_history"-->
+<!--    android:iconTint="@color/white"-->
+<!--    app:showAsAction="ifRoom"-->
+<!--    app:itemIconSize="16dp"-->
+<!--    android:visible="false"/>-->
+</menu>
