@@ -1,7 +1,7 @@
 Change App name in : **settings.gradle.kts**
 
 
-**Android Studio Version**
+**Android Studio Version**:
 
 Android Studio Narwhal Feature Drop | 2025.1.2 Patch 1
 
