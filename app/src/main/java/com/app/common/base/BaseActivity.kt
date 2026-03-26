@@ -57,9 +57,9 @@ open class BaseActivity: AppCompatActivity() {
     open fun loadData() {}
 
     open fun setData() {
-        if (UserConfig.getInstance().token.isNullOrBlank()) {
-            finish()
-        }
+        //if (UserConfig.getInstance().token.isNullOrBlank()) {
+        //    finish()
+        //}
     }
 
     open fun initUI() {}
